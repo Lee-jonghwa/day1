@@ -12,3 +12,6 @@ wheels/
 # data files
 *.zip
 *.pdf
+.env
+logs/
+data/
